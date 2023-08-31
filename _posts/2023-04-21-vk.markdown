@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Vkontakte page established"
+date:   2023-04-21 18:00:00 +0200
+categories: feed
+---
+
+### 7coreloops now have VK page.
+
+For now it's for publishing "Sonata" (🇷🇺 16+ version), but it's still worth checking [our vk page](https://vk.com/7coreloops).
+
+### Ratings are set
+
+Our projects now have "suggested" [PEGI](https://pegi.info/) / RARS ratings just to be sure our content properly aligned with consumers.

@@ -1,0 +1,26 @@
+<footer class="site-footer h-card">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="{{ 'feed.xml' | relative_url }}" target="_blank" style="text-decoration:none;border-width: 0px;">
+            <img alt="RSS" src="/assets/rss.png" width="50" height="50" />
+          </a>
+          <a href="https://www.youtube.com/channel/UCBOVLzGUr0ukioDfWPMzyTQ" target="_blank" style="text-decoration:none;border-width: 0px;">
+            <img alt="YouTube" src="/assets/youtube.png" width="52" height="60" />
+          </a>
+        </p>
+        {%- if site.author %}
+        <ul class="contact-list">
+          {% if site.author.email -%}
+          <li>Contact email: <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {%- endif %}
+        </ul>
+        {%- endif %}
+      </div>
+      <div class="footer-col">
+        <p>{{ site.description | escape }}</p>
+      </div>
+    </div>
+  </div>
+</footer>
