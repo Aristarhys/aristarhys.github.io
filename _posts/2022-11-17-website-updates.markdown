@@ -7,8 +7,6 @@ categories: feed
 
 * Auto-dark theme enabled
 * Mobile layout optimized
-* [About the Team](https://7coreloops.net/team) section added
-* Google analytics enabled, feel free to adblock it `¯\_(ツ)_/¯`
-* Social links added to the footer (Discord and YouTube)
-* Fixed bug with The Quest iframe PDF reader downloading file on the mobiles, instead of showing it
+* [About the Team](/team) section added
+* Social links added to the footer (RSS and YouTube)
 * Adjusted iframe width and sizes for desktops and mobile devices

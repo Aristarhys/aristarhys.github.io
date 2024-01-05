@@ -7,11 +7,9 @@ categories: feed
 
 ### We now have a [Boosty](https://boosty.to/7coreloops) and [Patreon](https://www.patreon.com/7CoreLoops) pages to do so.
 
-You can subscribe to the only role of the Pholph so far (~2USD) to get access to the early access channel of ["Sonata for an untuned cello"](/sonata) in our [discord](https://discord.com/invite/XXjEEuERMV)
+You can subscribe to the only role of the Pholph so far (~2USD) to get access to the early access channel of ["Sonata for an untuned cello"](/sonata)
 
 ### FAQ on Boosty/Patreon
-
-- Is this also going to sponsor ["Everglow: The Lost Days"](/lost-days)? No, this is just to support the ["Sonata for an untuned cello"](/sonata) webcomic.
 
 - Where will the money go? To pay for outsourced comic artist and the script-doctor (so it won't be amateur~ish like Everglow).
 
