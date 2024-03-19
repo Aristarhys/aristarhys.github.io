@@ -5,6 +5,8 @@ date:   2024-02-01 9:00:00 +0200
 categories: feed
 ---
 
+![finale](/assets/posts/finale.jpg)
+
 Everglow now is [playable](https://aristarhys.itch.io/everglow-web) in web browser thanks to renpy 8 web export support.
 
 It can be used as mobile-friendly experience (tested on IOS and Android).

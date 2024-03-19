@@ -7,4 +7,6 @@ categories: feed
 
 ![Everglow Lost Days OST](/assets/posts/lost_days.jpg)
 
-Everglow Lost Days OST released on [steam](https://store.steampowered.com/app/2102170/Everglow_Lost_Days_Soundtrack/), [itch.io](https://aristarhys.itch.io/everglow-lost-days-ost) and [youtube](https://youtu.be/XclZ81yFtCE)
+Everglow Lost Days OST released on [steam](https://store.steampowered.com/app/2102170/Everglow_Lost_Days_Soundtrack/) and [youtube](https://www.youtube.com/watch?v=XclZ81yFtCE)
+
+Original VN OST is available on [steam](https://store.steampowered.com/app/2102160/Everglow_Soundtrack/) and [youtube](https://www.youtube.com/watch?v=2jkrECvRGrQ) too.

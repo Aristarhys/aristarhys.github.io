@@ -8,7 +8,7 @@ categories: feed
 It's already a little bit left before the new year and Christmas and we want to share a sneak peak on the project. So what will The Lost Days be like?
 
 <figure>
-    <img src="/assets/lost_days/clarissa.png"
+    <img src="/assets/posts/clarissa.png"
          alt="Clarissa Squalus raw concept art by Stable Diffusion">
     <figcaption>Clarissa Squalus raw concept art by Stable Diffusion</figcaption>
 </figure>

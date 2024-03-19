@@ -7,6 +7,6 @@ categories: feed
 
 ### "Sonata For An Untuned Cello" intro available for public.
 
-First 10 pages of web comic available in [english](/sonata) or [russian](/sonata_ru).
+First 10 pages of web comic available in english (defunct) or russian(defunct).
 
-Feel free to leave your impression at our [discord](https://discord.com/invite/XXjEEuERMV).
+Feel free to leave your impression at our discord (defunct).

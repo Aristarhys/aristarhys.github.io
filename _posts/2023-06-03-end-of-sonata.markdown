@@ -9,7 +9,7 @@ categories: feed
 
 As stated in previous post webcomic "Sonata For An Untuned Cello" is in "cancelled" state, but last pages (3) had arrived anyway.
 
-You can check "completed" version at [sonata page](/sonata)
+You can check "completed" version at sonata page (defunct)
 
 ### Changelog
 

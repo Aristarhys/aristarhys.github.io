@@ -5,9 +5,9 @@ date:   2022-12-09 18:00:00 +0200
 categories: feed
 ---
 
-### We now have a [Boosty](https://boosty.to/7coreloops) and [Patreon](https://www.patreon.com/7CoreLoops) pages to do so.
+### We now have a Boosty (defunct) and Patreon (defunct) pages to do so.
 
-You can subscribe to the only role of the Pholph so far (~2USD) to get access to the early access channel of ["Sonata for an untuned cello"](/sonata)
+You can subscribe to the only role of the Pholph so far (~2USD) to get access to the early access channel of "Sonata for an untuned cello" (defunct)
 
 ### FAQ on Boosty/Patreon
 

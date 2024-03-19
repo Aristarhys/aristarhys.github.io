@@ -7,7 +7,7 @@ categories: feed
 
 ### Boosty and Patreon campaigns are discontinued.
 
-[Boosty](https://boosty.to/7coreloops) and [Patreon](https://www.patreon.com/7CoreLoops) are no longer supported, but work on ["Sonata for an untuned cello"](/sonata) will continue and have estimated soft deadline of delivery for *25 Dec 2023*.
+Boosty (defunct) and Patreon (defunct) are no longer supported, but work on "Sonata for an untuned cello" (defunct) will continue and have estimated soft deadline of delivery for *25 Dec 2023*.
 
 Pholph role and exclusive channels with updates will be preserved.
 

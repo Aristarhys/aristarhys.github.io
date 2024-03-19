@@ -7,4 +7,4 @@ categories: feed
 
 ![The Quest](/assets/posts/quest.jpg)
 
-You can check russian version at [the quest page](/quest_ru)
+You can check russian version at the quest page (defunct)
