@@ -9,8 +9,10 @@ Leave this page immediately if you are under 16 years old.
 
 <iframe class="frame" width="646" height="315" src="https://www.youtube.com/embed/gWVen_-URGI" title="Everglow Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe class="frame" width="646" height="315" src="https://www.youtube.com/embed/2jkrECvRGrQ" title="Everglow OST" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="frame" width="646" height="315" src="https://www.youtube.com/embed/XclZ81yFtCE" title="Everglow Lost Days OST" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe class="fill" src="https://store.steampowered.com/widget/1763150/" frameborder="0" width="646" height="190"></iframe>
 <iframe class="fill" height="167" frameborder="0" src="https://itch.io/embed/1637622" width="552"><a href="https://aristarhys.itch.io/everglow">Everglow by Aristarhys</a></iframe>
+<iframe class="fill" height="167" frameborder="0" src="https://itch.io/embed/2506599" width="552"><a href="https://aristarhys.itch.io/everglow-web">Everglow Web by Aristarhys</a></iframe>
 <script>
 (function() {
   var ratio = 16 / 9;
