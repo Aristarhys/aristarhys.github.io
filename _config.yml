@@ -11,7 +11,7 @@
 # If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
-remote_theme: "jekyll/minima@c6e74bb"
+remote_theme: "jekyll/minima@1e8a445"
 
 title: 7CoreLoops
 author:
