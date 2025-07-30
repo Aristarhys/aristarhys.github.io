@@ -8,5 +8,5 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
 end
 
-gem "faraday-retry"
-gem "webrick"
+gem "faraday-retry" if ENV["GITHUB_ACTIONS"] != "true"
+gem "webrick" if ENV["GITHUB_ACTIONS"] != "true"
