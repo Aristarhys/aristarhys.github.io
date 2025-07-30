@@ -22,7 +22,6 @@ url: "https://aristarhys.github.io"
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
 
-show_excerpts: true
-
-exclude: ['README.md', 'CNAME', 'LICENSE']
+exclude: ['README.md', 'LICENSE']
