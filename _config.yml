@@ -19,17 +19,10 @@ author:
 description: The quick red fox jumps over the lazy wolf in space and time
 url: "https://aristarhys.github.io"
 
-# Build settings
-incremental: false
-remote_theme: jekyll/minima
-minima:
-  skin: auto
-
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-redirect-from
 
 show_excerpts: true
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'CNAME', 'LICENSE']
+exclude: ['README.md', 'CNAME', 'LICENSE']
